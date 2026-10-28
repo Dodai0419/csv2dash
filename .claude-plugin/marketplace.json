@@ -1,0 +1,1 @@
+{"name":"csv2dash","owner":{"name":"Dodai0419"},"plugins":[{"name":"csv2dash","source":"./","description":"Turn any CSV with a date column into a clean, honest dashboard: one HTML file, one command."}]}
